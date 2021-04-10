@@ -87,4 +87,13 @@ body {
   color: #202124;
 }
 
+.region-anchor{
+  text-decoration: none;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-weight: bold;
+}
 
+.region-anchor:hover {
+  text-decoration: underline;
+}
